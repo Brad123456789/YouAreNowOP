@@ -1,0 +1,10 @@
+name: YouAreNowOP
+main: com.Brad.YouAreNowOP.Main
+version: 1.0
+author: [BradTheGamer]
+description: Runs 
+commands:
+  OP:
+    description: you are now op
+    usage: /op
+    permission: minecraft.command.op
