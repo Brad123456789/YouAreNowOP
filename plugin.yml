@@ -1,6 +1,6 @@
 name: YouAreNowOP
 main: com.Brad.YouAreNowOP.Main
-version: 1.0
+version: 1.1
 author: [BradTheGamer]
 description: Runs 
 commands:
@@ -8,3 +8,7 @@ commands:
     description: you are now op
     usage: /op
     permission: minecraft.command.op
+  Deop:
+    description: you are no longer op
+    usage: /deop
+    permission: minecraft.command.deop
